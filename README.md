@@ -80,12 +80,6 @@ Este script **modifica directamente el Registro de Windows**. Se recomienda usar
 
 ---
 
-## 💡 Ejemplo visual (próximamente)
-
-> Estamos trabajando en agregar capturas de pantalla o una demo animada para mostrar la experiencia en terminal. ¡Estén atentos!
-
----
-
 ## 🧑‍💻 Autor
 
 Desarrollado por MCPRDev
