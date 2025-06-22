@@ -46,11 +46,11 @@ Ofrece tres funciones clave:
 
 - 🖥️ Sistema operativo: Windows  
 - 🐍 Python 3.7 o superior  
-- 📦 Paquete adicional: `colorama`
+- 📦 Paquete adicional: `colorama` and `pyinstaller`
 
 Instalación de Colorama:
 ```bash
-pip install colorama
+pip install colorama pyinstaller
 ```
 ---
 
